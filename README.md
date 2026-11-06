@@ -49,11 +49,9 @@ Na agenda de papel, *"não comeu"* e *"ninguém anotou"* produzem exatamente o m
 para a família: um campo em branco. Entre **25% e 30%** das crianças com TEA são não verbais ou têm
 fala minimamente funcional — para elas, o registro do adulto da escola é a **única versão existente
 do dia**, porque a família não pode perguntar ao filho como foi. Quando o caderno volta incompleto,
-ilegível, esquecido na escola ou molhado na mochila — risco concreto no clima de Manaus, em uma
-cidade cujo deslocamento diário é longo e frequentemente feito a pé, em transporte coletivo ou por
-via fluvial nos bairros ribeirinhos —, decisões de cuidado (ajuste de rotina, ida ao
-neuropediatra, mudança de medicação) passam a ser tomadas por adivinhação. Para a instituição de
-Manaus, acumula-se uma segunda dor: ela não tem **prova** de que a informação crítica chegou à
+ilegível, esquecido na escola ou molhado na mochila — risco concreto no clima de Manaus —, decisões 
+de cuidado (ajuste de rotina, ida ao neuropediatra, mudança de medicação) passam a ser tomadas por adivinhação. 
+Para a instituição de Manaus, acumula-se uma segunda dor: ela não tem **prova** de que a informação crítica chegou à
 família, porque a rubrica no caderno nunca demonstrou leitura efetiva. E não há, nesse perfil de
 instituição, equipe de TI para operar software complexo — o que torna o custo de adoção, e não a
 funcionalidade, o verdadeiro gargalo.
@@ -97,7 +95,7 @@ recebem da família o relatório consolidado exportado.
 | **RF04** | O sistema deve permitir que **o professor** confirme a administração de uma dose prevista de medicação, informando o horário e o responsável pela administração. |
 | **RF05** | O sistema deve permitir que **o professor** justifique, com motivo obrigatório, a não administração de uma dose prevista de medicação. |
 | **RF06** | O sistema deve permitir que **o professor** corrija um registro de sua própria autoria, com justificativa obrigatória após a janela de correção direta. |
-| **RF07** | O sistema deve permitir que **o terapeuta** registre a sessão de terapia realizada no dia com a criança em atendimento. |
+| **RF07** | O sistema deve permitir que **o terapeuta** registre a sessão de terapia realizada no dia com a criança em atendimento. 
 | **RF08** | O sistema deve permitir que **o responsável** aceite o termo de consentimento de tratamento de dados antes de qualquer visualização de dado da criança. |
 | **RF09** | O sistema deve permitir que **o responsável** visualize o resumo do dia da criança vinculada, incluindo a lista explícita dos campos que não foram registrados. |
 | **RF10** | O sistema deve permitir que **o responsável** confirme a leitura do resumo diário, gerando um registro datado e atribuído que substitui a assinatura no caderno. |
